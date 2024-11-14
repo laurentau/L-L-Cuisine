@@ -276,7 +276,7 @@ INTRO CONTAINER
     background-position: 70% 50%;
 }
  .featured.background_content{
-    background: url('../images/featured.jpg') no-repeat center center; 
+    background: url('../images/sushiplatter2.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -294,7 +294,7 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 .bread.background_content{
-    background: url('../images/breakfast.jpg') no-repeat center center; 
+    background: url('../images/steakbg.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
