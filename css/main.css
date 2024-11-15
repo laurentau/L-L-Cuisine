@@ -265,7 +265,7 @@ INTRO CONTAINER
 }
 
 .beer.background_content{
-    background: url('../images/beer.jpg') no-repeat center center; 
+    background: url('../images/alcohol.jpg') no-repeat center center; 
     background-size: cover;
     background-position: 70% 50%;
 }
@@ -282,7 +282,7 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
  .pricing.background_content{
-    background: url('../images/pricing.jpg') no-repeat center center; 
+    background: url('../images/stirfry.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
