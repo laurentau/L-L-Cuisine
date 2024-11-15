@@ -489,7 +489,7 @@ p.sub-footer-text a{
 
 .textarea{
     height: 200px;
-    max-height: 200px;
+    max-height: 125px;
     max-width: 100%;
 } 
 /* Generic Button Styles */
