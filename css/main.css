@@ -35,6 +35,10 @@ p.desc-text{
     text-align: left !important;
     border-bottom: 1px solid;
     padding: 10px 0;
+    color: rgb(230, 172, 26);
+}
+.right-text h2{
+    color: rgb(230, 172, 26);
 }
 
 *, *:before, *:after {
@@ -293,6 +297,7 @@ INTRO CONTAINER
     background-position: center;
     background-attachment: fixed;
 }
+
 .bread.background_content{
     background: url('../images/steakbg.jpg') no-repeat center center; 
     background-size: cover;
@@ -347,7 +352,7 @@ FIRST FOOTER CONTENT
     font-size: 28px;
     font-weight: 900;
     letter-spacing: 0.040em;
-    color: white;
+    color: black;
     text-align: center;
     margin: 40px 0 0 0;
 }
@@ -523,7 +528,7 @@ p.sub-footer-text a{
     float: left;
     height: auto;
     padding:15px;
-    color:#fff;
+    color:black;
     background:goldenrod;
     border:none;
     border-radius:3px;
@@ -538,7 +543,7 @@ p.sub-footer-text a{
     text-align: center;
 }
 .form-btn:hover{
-    background: rgba(85, 184, 120, 1);
+    background: rgb(136, 125, 63);
     color: white;
     border:none;
 }
@@ -734,7 +739,7 @@ MEDIA QUERIES TABLET
     =========================*/
 
     section.social_connect {
-        background-color: black;
+        background-color: goldenrod;
         text-align: center;
         margin-bottom: 50px;
   }
@@ -742,7 +747,10 @@ MEDIA QUERIES TABLET
     .social_heading {
         font-size: 33px;
         margin: 50px 0 0 0;
+        padding-top: 0px;
+        padding-bottom: 20px;
     }
+
 
     .social_info a {
         font-size: 24.93px;
